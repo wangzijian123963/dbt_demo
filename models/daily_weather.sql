@@ -19,3 +19,4 @@ group by 1,2
 
 select *
 from daily_weather_agg
+order by daily_weather
